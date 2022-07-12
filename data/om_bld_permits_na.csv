@@ -1,0 +1,89 @@
+governorate,year,Residential,Commercial,Commercial/ Residential,Industrial,Agricultural
+Muscat,2012,7984,40,711,216,32
+Muscat,2013,7308,34,723,266,46
+Muscat,2014,9349,83,940,366,57
+Muscat,2015,8926,79,955,324,56
+Muscat,2016,7667,33,899,295,22
+Muscat,2017,3768,17,426,161,12
+Muscat,2018,6137,73,876,250,24
+Muscat,2019,2534,25,226,93,23
+Dhofar,2012,1632,87,29,53,4
+Dhofar,2013,1147,68,33,39,1
+Dhofar,2014,1231,90,49,77,1
+Dhofar,2015,695,15,4,6,1
+Dhofar,2016,1762,17,32,60,4
+Dhofar,2017,795,12,53,13,3
+Dhofar,2018,860,31,13,39,2
+Dhofar,2019,874,55,22,43,3
+Musandam,2012,616,6,25,15,28
+Musandam,2013,590,8,21,20,36
+Musandam,2014,483,5,14,13,46
+Musandam,2015,506,17,33,12,36
+Musandam,2016,364,0,17,20,17
+Musandam,2017,279,0,15,5,9
+Musandam,2018,242,2,16,9,24
+Musandam,2019,181,4,12,3,2
+Al - Buraymi,2012,987,10,66,10,0
+Al - Buraymi,2013,748,9,54,10,11
+Al - Buraymi,2014,755,8,41,11,4
+Al - Buraymi,2015,709,2,34,11,1
+Al - Buraymi,2016,626,4,23,12,7
+Al - Buraymi,2017,461,7,19,15,5
+Al - Buraymi,2018,393,5,20,16,6
+Al - Buraymi,2019,487,6,25,4,4
+Al - Dakhliyah,2012,3807,26,162,74,115
+Al - Dakhliyah,2013,3550,46,201,67,140
+Al - Dakhliyah,2014,3672,37,164,90,182
+Al - Dakhliyah,2015,3688,28,231,101,186
+Al - Dakhliyah,2016,3574,53,208,97,176
+Al - Dakhliyah,2017,3336,44,210,84,232
+Al - Dakhliyah,2018,3587,56,323,106,407
+Al - Dakhliyah,2019,2799,43,131,66,246
+Al - Batinah South,2012,4160,114,240,148,172
+Al - Batinah South,2013,3638,134,261,160,193
+Al - Batinah South,2014,4108,165,210,114,250
+Al - Batinah South,2015,4553,221,273,142,265
+Al - Batinah South,2016,4436,222,307,172,217
+Al - Batinah South,2017,4131,235,282,159,198
+Al - Batinah South,2018,3172,37,224,108,306
+Al - Batinah South,2019,3606,36,133,127,213
+Al - Sharqiyah South,2012,2413,15,109,47,14
+Al - Sharqiyah South,2013,2766,23,118,36,13
+Al - Sharqiyah South,2014,2456,26,116,54,34
+Al - Sharqiyah South,2015,2408,37,138,25,21
+Al - Sharqiyah South,2016,2547,30,148,52,9
+Al - Sharqiyah South,2017,2181,66,206,64,16
+Al - Sharqiyah South,2018,1483,9,120,45,33
+Al - Sharqiyah South,2019,1779,15,131,50,34
+Al - Sharqiyah North,2012,3220,142,207,180,63
+Al - Sharqiyah North,2013,3001,111,209,158,27
+Al - Sharqiyah North,2014,2317,66,241,101,32
+Al - Sharqiyah North,2015,2391,32,284,47,8
+Al - Sharqiyah North,2016,2960,34,241,36,9
+Al - Sharqiyah North,2017,2257,54,208,31,24
+Al - Sharqiyah North,2018,1374,38,86,37,47
+Al - Sharqiyah North,2019,1733,33,77,37,86
+Al - Dhahira,2012,1739,60,140,44,185
+Al - Dhahira,2013,1611,110,184,80,249
+Al - Dhahira,2014,1746,318,429,145,501
+Al - Dhahira,2015,1890,222,277,76,219
+Al - Dhahira,2016,1960,222,255,134,286
+Al - Dhahira,2017,1679,207,266,143,267
+Al - Dhahira,2018,1358,22,115,50,181
+Al - Dhahira,2019,1322,37,74,33,150
+Al - Wusta,2012,746,20,66,12,2
+Al - Wusta,2013,536,15,30,11,2
+Al - Wusta,2014,199,19,17,4,0
+Al - Wusta,2015,195,6,30,6,0
+Al - Wusta,2016,235,33,39,28,1
+Al - Wusta,2017,157,12,37,14,0
+Al - Wusta,2018,140,8,41,16,4
+Al - Wusta,2019,222,10,49,79,5
+Al - Batinah North,2012,5960,76,157,159,255
+Al - Batinah North,2013,5215,134,258,277,320
+Al - Batinah North,2014,5046,130,273,416,232
+Al - Batinah North,2015,5240,106,218,290,165
+Al - Batinah North,2016,5737,183,380,328,237
+Al - Batinah North,2017,5105,100,386,347,236
+Al - Batinah North,2018,5135,124,490,304,334
+Al - Batinah North,2019,4470,56,254,184,283
